@@ -11,8 +11,6 @@
 
 **ml &nbsp;·&nbsp; ai &nbsp;·&nbsp; data**
 
-<sub>building things that learn &nbsp;·&nbsp; somewhere between math and cosmos</sub>
-
 <br>
 <br>
 
@@ -20,8 +18,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=aaaaaa)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=aaaaaa)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=aaaaaa)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=aaaaaa)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=aaaaaa)
 
 <br>
 <br>
@@ -30,19 +26,16 @@
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDarayut&show_icons=true&theme=transparent&hide_border=true&title_color=666666&text_color=555555&icon_color=555555)](https://github.com/NDarayut)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDarayut&layout=compact&theme=transparent&hide_border=true&title_color=666666&text_color=555555)](https://github.com/NDarayut)
+<p align="center">
+  <a href="mailto:darayutnhem009@gmail.com">email</a> ⸰ 
+  <a href="https://www.linkedin.com/in/nhem-darayut-298512274/">linkedin</a> ⸰ 
+  <a href="https://www.researchgate.net/profile/Darayut-Nhem?ev=hdr_xprf">researchgate</a>
+</p>
 
 <br>
 
 ---
 
-<br>
-
-<sub>*"we are a way for the cosmos to know itself" — carl sagan*</sub>
-
-<br>
 <br>
 
 </div>
