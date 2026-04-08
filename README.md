@@ -7,21 +7,6 @@
 <br>
 <br>
 
-# NDarayut
-
-**ml &nbsp;·&nbsp; ai &nbsp;·&nbsp; data**
-
-<br>
-<br>
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=aaaaaa)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=aaaaaa)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=aaaaaa)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=aaaaaa)
-
-<br>
-<br>
-
 ---
 
 <br>
