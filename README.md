@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="nebula.png" width="480" alt="Pillars of Creation" />
+<img src="helix_nebula.png" width="1000" alt="Helix Nebula" />
 
 <br>
 <br>
