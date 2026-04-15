@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="nebula.png" width="480" alt="Pillars of Creation" />
+<img src="nebula_2.png" width="480" alt="Pillars of Creation" />
 
 <br>
 <br>
